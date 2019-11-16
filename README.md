@@ -17,6 +17,7 @@ Library
 How to install library
 
 *Install Xcode and Homebrew first for MacOS
+
 Homebrew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install) copy and paste into terminal
 
@@ -44,6 +45,7 @@ pipenv install beautifulsoup4
 
 7. Pylint
 pipenv install pylint
+
 
 Run the code 
 
