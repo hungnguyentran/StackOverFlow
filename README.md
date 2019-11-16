@@ -30,7 +30,6 @@ brew install python3
 2. pipenv
 brew install pipenv
 
-
 3. Turn on the virtualenv(virtual environment)
 pipenv shell
 
