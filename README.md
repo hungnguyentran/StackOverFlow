@@ -26,24 +26,31 @@ Homebrew
 Now install the library
 
 1. python
+
 brew install python3
 
 2. pipenv
+
 brew install pipenv
 
 3. Turn on the virtualenv(virtual environment)
+
 pipenv shell
 
 4. Requests
+
 pipenv install requests
 
 5. Pandas
+
 pipenv install pandas
 
 6. BeautifulSoup4
+
 pipenv install beautifulsoup4
 
 7. Pylint
+
 pipenv install pylint
 
 
