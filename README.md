@@ -66,4 +66,4 @@ Run the code
 python stackoverflow.py
 
  
-After run the code you will see the result in the terminal and create a file name UserStackoverflow.csv so you can open it by Microsoft Excel
+After run the code you will see the result in the terminal and also create a file name UserStackoverflow.csv so you can open it by Microsoft Excel
