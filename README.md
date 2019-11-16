@@ -21,7 +21,7 @@ How to install library
 Homebrew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install) copy and paste into terminal
 
-*Go into StackUser folder 
+*Go into StackOverFlow-master folder 
 
 Now install the library
 
