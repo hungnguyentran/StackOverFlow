@@ -57,7 +57,7 @@ pipenv install beautifulsoup4
 
 7. Pylint
 
-pipenv install pylint
+pipenv install pylint --dev
 
 
 
